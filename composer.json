@@ -1,0 +1,11 @@
+{
+    "name": "avonture/php_minimum_docker",
+    "description": "This project includes the minimum skeleton to run PHP inside Docker",
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "docker"
+    ],
+    "minimum-stability": "dev"
+}
